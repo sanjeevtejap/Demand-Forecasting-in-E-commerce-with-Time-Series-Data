@@ -1,0 +1,2 @@
+# Demand-Forecasting-in-E-commerce-with-Time-Series-Data
+This project builds a retail demand-forecasting system that predicts weekly product demand using historical sales, pricing, store, SKU, and promotional information. It explores and compares multiple forecasting and machine-learning models to estimate future units_sold, helping retailers improve inventory planning, replenishment, and sales decision.
